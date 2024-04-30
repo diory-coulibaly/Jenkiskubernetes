@@ -18,4 +18,4 @@ spec:
           image: 'user-newapp:2.0'
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 9191
+            - containerPort: 9192
