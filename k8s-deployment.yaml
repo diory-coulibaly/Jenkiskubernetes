@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: user-app-container
-          image: 'dcoulibalycgi/user-service:1.0.0-7'
+          image: 'dcoulibalycgi/user-service:1.0.0-9'
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 9192
